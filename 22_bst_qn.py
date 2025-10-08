@@ -63,7 +63,7 @@ class BST:
 
 
 bst = BST()
-arr = [40, 39, 58, 30, 67, 20, 2090]
+arr = [40, 39, 58, 30, 67, 20, 20, 90]
 
 for num in arr:
     bst.insert(num)
